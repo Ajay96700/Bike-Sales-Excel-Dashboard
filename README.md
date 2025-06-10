@@ -15,4 +15,4 @@
  - Middle-aged customers were the largest buyer group.
  - Most customers who purchased bikes lived within 0–1 miles of their work location.
 
-The dashboard allows dynamic filtering by region, education level, and marital status, helping businesses refine insights for specific campaigns
+The dashboard allows dynamic filtering by region, education level, and marital status, helping businesses refine insights for specific campaigns (e.g., targeting North American bachelors with graduate degrees).
