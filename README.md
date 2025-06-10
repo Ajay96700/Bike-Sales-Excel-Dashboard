@@ -1,5 +1,7 @@
 # Bike Sales Dashboard using microsoft Excel
 
+![](https://github.com/Ajay96700/Bike-Sales-Excel-Dashboard/blob/main/Bike%20Sales%20Dashboard.png)
+
 ## For this project I have considered the goal to identify high-potential customer segments and regions for targeted marketing campaigns to increase bike sales.
 
 ## Key Business Questions:
